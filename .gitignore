@@ -1,5 +1,11 @@
-variable1;variable2;variable3
-1;perro;1
-1;elefante;2
-1;gato;37
-10000;rinoceronte;5
+#esto es un comentario
+#después de este punto digoq ue ignore los csv,xlsx y xlsx
+*.csv
+
+*xls
+*xlsxakl	mSMDÑldw	l
+
+#si quisiera ignorar una carpeta
+DKQWDMKQMLQnombre_carpeta/
+
+datos/*.json
