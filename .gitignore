@@ -1,0 +1,11 @@
+#esto es un comentario
+#después de este punto digoq ue ignore los csv,xlsx y xlsx
+*.csv
+
+*xls
+*xlsxakl	mSMDÑldw	l
+
+#si quisiera ignorar una carpeta
+DKQWDMKQMLQnombre_carpeta/
+
+datos/*.json
